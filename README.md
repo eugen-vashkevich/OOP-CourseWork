@@ -17,7 +17,7 @@
 Запись на прием: Клиент должен иметь возможность записаться на прием к выбранному врачу в свободные рабочие смены.
 
 
-![Снимок экрана 2024-03-01 142506](https://github.com/FujitsuT/OOP-CourseWork/assets/67864949/87417e9f-8590-4781-b585-66a5ffe84d3d)
+![image](https://github.com/FujitsuT/OOP-CourseWork/assets/67864949/45e47bd3-8f5c-46a1-abab-d49ec339e300)
 
 
 ### Функции
